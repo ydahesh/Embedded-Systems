@@ -1,0 +1,6 @@
+main
+	forward
+	reverse
+	right
+	left
+	stop

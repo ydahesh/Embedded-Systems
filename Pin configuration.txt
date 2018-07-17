@@ -1,0 +1,10 @@
+pic16 f8 77a
+
+# Tris()
+
+trisb=0 : means all port B become output
+trisb=1 : means all port B become input
+
+#
+portb.rb0=0    means send low
+portb.rb0=1    means send high

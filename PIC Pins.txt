@@ -1,0 +1,13 @@
+pin 11 Vcc
+
+pin 12 Ground
+
+pin 13 & 14 crystal oscillator
+
+pin 1 master clear (power signal to start)
+
+PORT A from pin 2 to 7 are analog Read and Write
+
+PORT E from pin 8 to 10 are analog Read and Write
+
+PORT B from pin 33 to 40 are digital Read and Write (also used when uploading code)
